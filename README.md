@@ -119,9 +119,10 @@ Dự án được phát hành theo MIT License.
 
 - Repository owner: Devteam
 
----
-## <a=href"https://tienchung21.github.io/warmguys/View/User/about.html">Trang Chủ</a>
 
+---
+
+[Trang Chủ](https://tienchung21.github.io/warmguys/View/User/about.html)
 
 Nếu bạn muốn tôi tiếp tục, chọn một trong các tác vụ ở phần "Gợi ý hành động tôi có thể làm tiếp" — tôi có thể bắt đầu sinh file SQL hoặc quét các điểm nguy cơ bảo mật ngay lập tức.
 
